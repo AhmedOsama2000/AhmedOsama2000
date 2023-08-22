@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.lambdatest.com/resources/images/news24.gif"  />
+  <img height="300" src="https://www.lambdatest.com/resources/images/news24.gif"  />
 </div>
 
 ###
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Languages & tools</h3>
 
 ###
 
